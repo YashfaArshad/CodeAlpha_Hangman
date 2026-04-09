@@ -33,7 +33,7 @@ A simple and interactive command-line Hangman game built using Python as part of
 3. Run the file:
 
 ```bash
-python hangman_.py
+python Hangman_.py
 ```
 
 ---
